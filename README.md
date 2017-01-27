@@ -1,5 +1,5 @@
 # reCaptchaSolve
-A primary Google ReCaptcha resolver 
+A primary Google ReCaptcha resolver written in Selenium IDE (HTML)
 <br> <br>![alt tag](https://github.com/higorvaz/reCaptchaSolve/blob/master/recaptcha-solve.jpg)
 
 
@@ -15,7 +15,7 @@ A primary Google ReCaptcha resolver
 - Selenium IDE Firefox Extension installed
 
 -------------------------------------------------------------------------------------
-Um resolvedor primário de Google ReCaptha
+Um resolvedor primário de Google ReCaptha escrito em Selenium IDE (HTML)
 
 ## Possibilidades:
 - Resolver um ReCaptcha primário em uma única pesquisa
