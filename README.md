@@ -1,5 +1,7 @@
 # reCaptchaSolve
-A primary Google ReCaptcha resolver
+A primary Google ReCaptcha resolver 
+<br> <br>![alt tag](https://github.com/higorvaz/reCaptchaSolve/blob/master/recaptcha-solve.jpg)
+
 
 ##Possibilities:
 - Solve a primary ReCaptcha in a single research
